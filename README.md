@@ -36,9 +36,10 @@ Em geral são bibliotecas utilizadas para incorporar funcionalidades adicionais 
  
  
 ## Screenshots
+
+<img src="image.png">
  
-![App Screenshots](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
- 
+
  
 ## 🖇️Aprendizados
  
